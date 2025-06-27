@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Tianheng.</h2>
 
-<!--
-**tianheng-ling/tianheng-ling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👩🏻‍🎓 PhD Student, Computer Science <br>
+  💼 Research Associate @ University of Duisburg-Essen <br><br>
+  💬 Languages: 🇨🇳 🇬🇧 🇩🇪 <br><br>
+  🛠️ Edge AI Deployment <br>
+  📦 Integer-Only Quantization <br>
+  🔌 FPGA-Based Inference <br>
+  🔍 Time-Series Signal Processing <br>
+  🧠 Efficient Deep Learning Models
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><strong>Deploying intelligence, one bit at a time.</strong></p>
